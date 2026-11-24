@@ -1,0 +1,8 @@
+{
+  "name": "Grade 3 Sri Lanka",
+  "description": "බහුවරණ ප්‍රශ්න",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

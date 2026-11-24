@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">බුද්ධ ධර්මය 3</string>
+    <string name="quiz_header_title">3 වසර බුද්ධ ධර්මය</string>
+    <string name="quiz_header_subtitle">බහුවරණ ප්‍රශ්න 50 • නිවැරදි පිළිතුර තෝරන්න (වරක් තේරූ පසු වෙනස් කළ නොහැක)</string>
+    <string name="summary_title">අවසාන ප්‍රතිඵල පත්‍රිකාව</string>
+    <string name="reset_dialog_title">නැවත මුල සිට ආරම්භ කරන්නද?</string>
+    <string name="reset_dialog_body">ඔබ දැනට ලබා දී ඇති සියලුම පිළිතුරු සහ ලකුණු මැකී යනු ඇත.</string>
+    <string name="reset_confirm">ඔව්, මුල සිට අරඹන්න</string>
+    <string name="reset_cancel">නැත</string>
+</resources>
